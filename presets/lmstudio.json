@@ -1,0 +1,1 @@
+{"_comment":"LM Studio stdio: point command to this folder's bridge/bridge.py (Python 3 stdlib only). Minimal 10-tool profile for small local models.","mcpServers":{"godot":{"args":["bridge/bridge.py"],"command":"python3"}}}

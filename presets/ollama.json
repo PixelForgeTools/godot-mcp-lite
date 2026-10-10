@@ -1,0 +1,1 @@
+{"_comment":"Ollama via any MCP host (e.g. ollama-mcp bridge). Uses bridge/bridge.py as stdio alternative. Tool profile: minimal-10.","mcpServers":{"godot":{"type":"http","url":"http://127.0.0.1:6506"}}}
